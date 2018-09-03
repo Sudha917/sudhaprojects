@@ -1,0 +1,7 @@
+G:\.net traing\Assignments\Day04\methodOO\methodOO\bin\Debug\methodOO.exe.config
+G:\.net traing\Assignments\Day04\methodOO\methodOO\bin\Debug\methodOO.exe
+G:\.net traing\Assignments\Day04\methodOO\methodOO\bin\Debug\methodOO.pdb
+G:\.net traing\Assignments\Day04\methodOO\methodOO\obj\Debug\methodOO.csprojAssemblyReference.cache
+G:\.net traing\Assignments\Day04\methodOO\methodOO\obj\Debug\methodOO.csproj.CoreCompileInputs.cache
+G:\.net traing\Assignments\Day04\methodOO\methodOO\obj\Debug\methodOO.exe
+G:\.net traing\Assignments\Day04\methodOO\methodOO\obj\Debug\methodOO.pdb
